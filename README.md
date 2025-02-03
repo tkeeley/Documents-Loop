@@ -1,8 +1,8 @@
 # Documents Loop
 
 **Version:** 2.0  
-**Author:** Your Name  
-**Author URI:** [https://yourwebsite.com](https://yourwebsite.com)
+**Author:** Tim Keeley  
+**Author URI:** [https://cupocode.com](https://cupocode.com)
 
 ## Overview
 
